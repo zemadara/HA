@@ -1,0 +1,9 @@
+/logs
+/screenshots
+
+*.txt
+*.lnk
+*.exe
+*.bat
+*_stripped.au3
+version.au3
